@@ -37,7 +37,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBHands",
             url: "None",
-            checksum: "f72a1e44d8167ecc8a08bcf3bbff23ccb4bab0905f1e8036ecdb017f1cf268db"
+            checksum: "aa6a30ed18232f999829f7532c5c0b17f6e0054f0f3a64898dfbd6c0bac95ec5"
         ),
         .target(
             name: "BNBHands_BNBSdkCore",
